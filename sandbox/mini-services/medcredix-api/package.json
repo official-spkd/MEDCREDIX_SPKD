@@ -1,0 +1,8 @@
+{
+  "name": "medcredix-api",
+  "private": true,
+  "description": "SPKD MedCredix API — backend Golang (Gin + GORM + SQLite)",
+  "scripts": {
+    "dev": "bash start.sh"
+  }
+}
